@@ -41,5 +41,25 @@ A simple and interactive **Car Parking Management System** built using **Java Sw
 ```text
 car-parking-system/
 ├── Car_Entry.java         # Main GUI class handling allotment, display, and exit
-├── VehicleEntry.java      # POJO class for vehicle data
 └── README.md              # Project documentation
+
+
+
+---
+
+## 🚀 How to Run
+
+### ✅ Prerequisites
+
+- Java JDK 8 or above installed  
+- Any IDE like IntelliJ, Eclipse, or NetBeans  
+- Or use terminal (Command Prompt, PowerShell, or Linux terminal)
+
+### ▶️ Running via Terminal
+
+1. Open terminal and navigate to the project folder:
+   ```bash
+   cd car-parking-system
+   javac Car_Entry.java
+   java Car_Entry
+
