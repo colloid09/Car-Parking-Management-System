@@ -42,8 +42,7 @@ A simple and interactive **Car Parking Management System** built using **Java Sw
 car-parking-system/
 ├── Car_Entry.java         # Main GUI class handling allotment, display, and exit
 └── README.md              # Project documentation
-
-
+```
 
 ---
 
