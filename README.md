@@ -38,8 +38,8 @@ A simple and interactive **Car Parking Management System** built using **Java Sw
 
 ## 📁 Project Structure
 
-car-parking-system/
-├── Car_Entry.java # Main GUI and logic
-├── VehicleEntry.java # Class to store vehicle data
-└── README.md # Project documentation
+-car-parking-system/
+-├── Car_Entry.java # Main GUI and logic
+-├── VehicleEntry.java # Class to store vehicle data
+-└── README.md # Project documentation
 
