@@ -61,4 +61,15 @@ car-parking-system/
    cd car-parking-system
    javac Car_Entry.java
    java Car_Entry
+   ```
+
+
+✅ **Instructions:**
+- Save this as `README.md` in your project folder.
+- Replace:
+  - `YourEmail@example.com` with your real email if you wish.
+  - `https://github.com/your-username` with your actual GitHub profile link.
+
+Let me know if you also want a sample `.gitignore` or `LICENSE` file!
+
 
