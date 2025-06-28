@@ -19,8 +19,8 @@ A simple and interactive **Car Parking Management System** built using **Java Sw
 
 - **Java 8+**
 - **Swing (Java GUI Library)**
-- **Collections (HashMap, ArrayList)**
-- **DateTime API (LocalTime, Duration)**
+- **Collections Framework** – `HashMap`, `ArrayList`
+- **Java Time API** – `LocalTime`, `Duration`, `DateTimeFormatter`
 
 ---
 
@@ -38,8 +38,8 @@ A simple and interactive **Car Parking Management System** built using **Java Sw
 
 ## 📁 Project Structure
 
--car-parking-system/
--├── Car_Entry.java # Main GUI and logic
--├── VehicleEntry.java # Class to store vehicle data
--└── README.md # Project documentation
-
+```text
+car-parking-system/
+├── Car_Entry.java         # Main GUI class handling allotment, display, and exit
+├── VehicleEntry.java      # POJO class for vehicle data
+└── README.md              # Project documentation
